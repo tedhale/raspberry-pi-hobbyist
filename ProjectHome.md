@@ -1,0 +1,1 @@
+Source code and other files related to blog posts in the blog "The Raspberry Pi Hobbyist"  http://raspberrypihobbyist.blogspot.com/
